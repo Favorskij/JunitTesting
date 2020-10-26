@@ -1,4 +1,4 @@
-package com.testingjunit;
+package com.junittesting;
 
 class Calculator {
 

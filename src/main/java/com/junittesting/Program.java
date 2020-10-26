@@ -1,4 +1,4 @@
-package com.testingjunit;
+package com.junittesting;
 
 public class Program {
 
